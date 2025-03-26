@@ -7,45 +7,37 @@ Este desafio teve como objetivo a criação de um ***Copiloto Inteligente***, ou
 ---
 
 ## 🎯 Objetivos do Desafio
-- Desenvolver um Agente Inteligente baseado em um modelo existente.
-- Desenvolver um Agente Inteligente baseado em uma descrição com IA.
-- Desenvolver um Agente Inteligente baseado em um Copilot em branco.
-- Melhorar a experiência do usuário com respostas rápidas e precisas.
-- Reduzir custos operacionais e aumentar a produtividade.
+- Criar um Agente em branco no Copilot Studio.
+- Customizar um tópico do Agente criado.
+- Personalizar uma mensagem de erro de tópico.
+- Aumentar e diminuir a qualidade da resposta com o GenAI.
 
 ---
 
 ## 🛠️ Tecnologia Utilizada
-- **Microsoft Copilot Studio**: Para criação e treinamento dos Agentes.
+- **Microsoft Copilot Studio**: Para criação e treinamento do Agente.
 
 ---
 
 ## 🏆 Resultados Alcançados
-- **Automação de serviços de atendimentos**: chatbots de alta performance e redução das tarefas repetitivas.
-- **Integração com Analytics**: Atualização automática de dados e geração de relatórios em tempo real.
-- **Experiência do Usuário Aprimorada**: Respostas precisas e personalizadas, com alta taxa de satisfação.
-- **Redução de tempo**: eficiência no tempo de atendimento e operações de suporte ao cliente.
-
----
-
-## 🚀 Como Executar
-1. Conectar ou criar uma conta no Microsoft 365.
-2. Acessar o Microsoft Copilot Studio através do link: [Copilot Studio](https://copilotstudio.microsoft.com/)
-3. Criar e configurar os Agentes conforme apresentação dos conteúdos.
-5. Teste os Copilotos e ajuste as respostas com base nos feedbacks.
+- Estruturação de diálogos com base em intenções e entidades, garantindo respostas precisas.
+- Personalização de mensagens adaptadas ao perfil do usuário.
+- Automação de serviços de atendimentos: chatbots de alta performance e redução de tarefas repetitivas.
+- Experiência do Usuário Aprimorada: Respostas precisas e personalizadas, com alta taxa de satisfação.
 
 ---
 
 ## 🌟 Destaques
-- **Personalização Avançada**: O Copiloto foi adaptado para atender às necessidades específicas do negócio.
-- **Escalabilidade**: Projetado para desenvolver sua capacidade de conversação, com suporte a novas funcionalidades e integrações.
-- **Inovação Contínua**: Base sólida para futuras melhorias, como integração com IA generativa e análise preditiva.
+- **Fluxo condicional inteligente** – O agente identifica o contexto e redireciona a conversa conforme a necessidade.
+- **Tratamento de exceções** – Respostas alternativas quando o usuário desvia do roteiro esperado.
+- **Personalização Avançada**: O Copiloto foi projetado para atender às necessidades específicas do negócio.
+- **Inovação Contínua**: Base sólida para futuras melhorias, como integração com o GenAI.
 
 ---
 
-## 📝 Conclusão
-Este desafio demonstrou o poder do **Microsoft Copilot Studio** para transformar operações empresariais, trazendo eficiência, inovação e uma experiência excepcional para os usuários. O sucesso alcançado é apenas o começo de uma jornada rumo à automação inteligente e à excelência operacional. 
-
+## 📝 Conclusão 
+#### Este desafio demonstrou que o ***Microsoft Copilot Studio*** é uma ferramenta poderosa para criar agentes de conversação eficientes, reduzindo custos operacionais e melhorando a experiência do usuário. Sendo assim, o resultado obtido foi um agente inteligente e dinâmico, capaz de oferecer interações mais naturais(humanas) e eficazes. 
 ---
 
 ## 🤖✨ Resultado
+https://github.com/user-attachments/assets/109c52e7-e7fb-4115-8c16-17eaee82e66e
